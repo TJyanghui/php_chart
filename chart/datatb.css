@@ -1,0 +1,7 @@
+body {font-size:12px;font-family:微软雅黑;background-color:lightgray}
+p {margin:10px 0 0 0}
+table,th,td {border: 1px solid lightgray;font-size:12px;}
+table {border-collapse:collapse;}
+caption {text-align:left;font-size:14px;font-weight:bold;white-space:nowrap;}
+th {background-color:gray;text-align:middle;width:80px;color:white}
+td {background-color:white;text-align:right;white-space:nowrap;}
